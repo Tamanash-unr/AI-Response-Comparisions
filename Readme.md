@@ -215,6 +215,3 @@ This project is created for educational purposes as part of an AI training assig
 - Python community for the excellent libraries used in this project
 
 ---
-
-*Last updated: [Current Date]*
-*For questions or issues, refer to the project documentation or contact your instructor.*
